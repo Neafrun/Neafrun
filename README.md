@@ -1,10 +1,27 @@
+<div align="center">
+
 # 안녕하세요! Neafrun입니다 👋
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0x00CED1,0x20B2AA,0x48CAE4,0x90E0EF&height=200&section=header&text=Frontend%20Developer&fontSize=35&fontColor=000000&animation=fadeIn" alt="프론트엔드 개발자 헤더">
 
 ## ✨ 감각적인 디자인으로 마음을 사로잡는 프론트엔드 개발자 Neafrun입니다.
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=%ED%94%BC%EB%9D%BC+%EC%BD%94%EB%93%9C&size=13&letterSpacing=%EC%A0%95%EC%83%81&pause=1000&color=0EA5E9&width=435&lines=%EC%A7%81%EA%B4%80%EC%A0%81%EC%9D%B8+%ED%9D%90%EB%A6%84+%EC%86%8D%EC%97%90+%EA%B0%90%EC%84%B1%EC%A0%81%EC%9D%B8+%EC%88%9C%EA%B0%84%EC%9D%84+%EC%8B%AC%EC%96%B4%EC%A3%BC%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9D%84+%EC%A7%80%ED%96%A5%ED%95%A9%EB%8B%88%EB%8B%A4" alt="Typing SVG" /></a>
+### 깔끔하고 보기좋은 코드를 선호하며, 사용자 중심의 직관적인 웹 경험을 만듭니다
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=%ED%94%BC%EB%9D%BC+%EC%BD%94%EB%93%9C&size=18&letterSpacing=%EC%A0%95%EC%83%81&pause=1000&color=0EA5E9&width=435&lines=%EC%A7%81%EA%B4%80%EC%A0%81%EC%9D%B8+%ED%9D%90%EB%A6%84+%EC%86%8D%EC%97%90+%EA%B0%90%EC%84%B1%EC%A0%81%EC%9D%B8+%EC%88%9C%EA%B0%84%EC%9D%84+%EC%8B%AC%EC%96%B4%EC%A3%BC%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9D%84+%EC%A7%80%ED%96%A5%ED%95%A9%EB%8B%88%EB%8B%A4" alt="Typing SVG" /></a>
+
+## 🌙 테마 모드 (Theme Mode)
+
+<div align="center">
+  
+**🌞 라이트 모드** | **🌙 다크 모드**
+:---: | :---:
+청량한 바다색 테마 | 깊은 밤하늘 테마
+밝고 시원한 느낌 | 차분하고 세련된 느낌
+
+*GitHub 설정의 테마에 따라 자동으로 변경됩니다*
+
+</div>
 
 ## 📞 연락처 (Contact)
 
@@ -16,34 +33,34 @@
 
 ### 🎯 Frontend
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled-Components">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled-Components">
 </p>
 
 ### 🎨 Design Tools
 <p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop">
-  <img src="https://img.shields.io/badge/Clip%20Studio-222222?style=for-the-badge&logo=clipstudiopaint&logoColor=white" alt="Clip Studio">
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop">
+  <img src="https://img.shields.io/badge/Clip%20Studio-222222?style=for-the-badge&logo=clipstudiopaint&logoColor=white" alt="Clip Studio">
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator">
 </p>
 
 ### 🛠️ Tools & IDE
 <p>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
 ### 💬 Communication
 <p>
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">
 </p>
 
 ---
@@ -51,9 +68,9 @@
 ## 📚 학습 중 (Currently Learning)
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
 </p>
 
 ---
@@ -61,10 +78,10 @@
 ## 🎯 관심 분야 (Interests)
 
 <p>
-  <img src="https://img.shields.io/badge/UI/UX%20Design-FF6B6B?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Design">
-  <img src="https://img.shields.io/badge/Frontend%20Performance-4ECDC4?style=for-the-badge&logo=lighthouse&logoColor=white" alt="Performance">
-  <img src="https://img.shields.io/badge/Responsive%20Design-45B7D1?style=for-the-badge&logo=css3&logoColor=white" alt="Responsive">
-  <img src="https://img.shields.io/badge/Accessibility-96CEB4?style=for-the-badge&logo=accessibility&logoColor=white" alt="Accessibility">
+  <img src="https://img.shields.io/badge/UI/UX%20Design-FF6B6B?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Design">
+  <img src="https://img.shields.io/badge/Frontend%20Performance-4ECDC4?style=for-the-badge&logo=lighthouse&logoColor=white" alt="Performance">
+  <img src="https://img.shields.io/badge/Responsive%20Design-45B7D1?style=for-the-badge&logo=css3&logoColor=white" alt="Responsive">
+  <img src="https://img.shields.io/badge/Accessibility-96CEB4?style=for-the-badge&logo=accessibility&logoColor=white" alt="Accessibility">
 </p>
 
 ---
@@ -127,3 +144,5 @@
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0x00CED1,0x20B2AA,0x48CAE4,0x90E0EF&height=150&section=footer&animation=twinkling" alt="Footer">
+
+</div>
