@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=0x7DD3FC,0x38BDF8,0x0EA5E9&height=250&section=header&text=프론트엔드 개발자&fontSize=40&fontColor=000000" alt="프론트엔드 개발자 헤더">
 
-## ✨ 감각적인 디자인으로 마음을 사로잡는 프론트엔드 개발자 Neafrun입니다.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=%ED%94%BC%EB%9D%BC+%EC%BD%94%EB%93%9C&letterSpacing=%EC%A0%95%EC%83%81&pause=1000&color=24BAF7&width=435&lines=+%EA%B0%90%EA%B0%81%EC%A0%81%EC%9D%B8+%EB%94%94%EC%9E%90%EC%9D%B8%EC%9C%BC%EB%A1%9C+%EB%A7%88%EC%9D%8C%EC%9D%84+%EC%82%AC%EB%A1%9C%EC%9E%A1%EB%8A%94+%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+Neafrun%EC%9E%85%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
 
 ### 직관적인 흐름 속에 감성적인 순간을 심어주는 개발을 지향합니다.
 
@@ -26,7 +26,7 @@
 <p>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop">
-  <img src="https://img.shields.io/badge/Clip%20Studio-222222?style=for-the-badge&logo=clipstudiopaint&logoColor=white" alt="Clip Studio">
+  <img src="https://img.io/badge/Clip%20Studio-222222?style=for-the-badge&logo=clipstudiopaint&logoColor=white" alt="Clip Studio">
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator">
 </p>
 
@@ -88,8 +88,13 @@
 
 ## 🔗 연락처 (Contact)
 
-[![이메일](https://img.shields.io/badge/Email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=38BDF8)](mailto:shjw5392@gmail.com)
+<p align="center">
+[![Email](https://img.shields.io/badge/Email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=38BDF8)](mailto:shjw5392@gmail.com)
+</p>
+
+<p align="center">
 ![Profile Views](https://komarev.com/ghpvc/?username=Neafrun&color=0EA5E9&style=for-the-badge&label=Views&labelColor=38BDF8)
+</p>
 
 ---
 
@@ -101,9 +106,13 @@
 
 ---
 
-## 📈 활동 기록 (Activity Graph)
+## 📈 활동 기록 및 저장소 (Activity & Repositories)
 
+### 활동 그래프 (Activity Graph)
 ![Neafrun's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Neafrun&theme=react-dark&hide_border=true&bg_color=0a1628&color=60a5fa&line=1d4ed8&point=3b82f6)
+
+### 인기 저장소 (Top Repos)
+<img src="https://github-readme-stats.vercel.app/api?username=Neafrun&show_icons=true&theme=slate&hide_border=true&include_all_commits=true&bg_color=0x7DD3FC&title_color=0EA5E9&icon_color=38BDF8&text_color=000000&rank_icon=github" alt="Neafrun's Top Repos">
 
 ---
 
