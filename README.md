@@ -14,6 +14,36 @@
 
 ---
 
+<div align="center">
+
+## 📧 Contact Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shjw5392@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+## ⏰ Productive Hours
+
+![Commit Time](https://github-readme-stats.vercel.app/api/wakatime?username=Neafrun&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9745F5&text_color=C9D1D9&layout=compact)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=Neafrun&color=9745F5&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<div align="center">
+
 ## 💫 Tech Stack
 
 ### 🎯 Frontend
@@ -46,6 +76,8 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 </div>
 
+</div>
+
 ---
 
 ## 📊 GitHub Stats
@@ -62,9 +94,11 @@
 
 ---
 
-## 🌟 Activity Graph
+---
 
 <div align="center">
+
+## 🌟 Activity Graph
 
 ![Neafrun's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Neafrun&theme=github-compact&hide_border=true&bg_color=0D1117&color=9745F5&line=9745F5&point=FF6B6B)
 
@@ -72,9 +106,11 @@
 
 ---
 
-## 🎵 Currently Coding To
+---
 
 <div align="center">
+
+## 🎵 Currently Coding To
 
 [![Spotify](https://novatorem-neafrun.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
 
@@ -84,16 +120,14 @@
 
 <div align="center">
 
+<div align="center">
+
 ### 🌙 "코드로 꿈을 현실로 만들어가는 개발자"
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling)
 
-</div>
-
----
-
-<div align="center">
-
 ![Visitor Count](https://profile-counter.glitch.me/Neafrun/count.svg)
+
+</div>
 
 </div>
