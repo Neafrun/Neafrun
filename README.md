@@ -2,11 +2,7 @@
 
 # 안녕하세요! Neafrun입니다 👋
 
-<div style="position: relative;">
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=0x0a1628,0x1e3a8a,0x1d4ed8&height=250&section=header&text=Frontend%20Developer&fontSize=40&fontColor=e2e8f0&animation=fadeIn)
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0x0a1628,0x1e3a8a,0x1d4ed8&height=250&section=header&text=Frontend%20Developer&fontSize=40&fontColor=e2e8f0&animation=fadeIn" alt="Frontend Developer Header">
 
 ## ✨ 아름다운 코드로 경험을 빚고, 감각적인 디자인으로 마음을 사로잡는 프론트엔드 개발자 Neafrun입니다.
 
@@ -14,9 +10,8 @@
 
 ---
 
-## 🔗 Contact & Channel
-[![Portfolio](https://img.shields.io/badge/Portfolio-4A90E2?style=flat-square&logo=webflow&logoColor=white&labelColor=1e3a8a)]([여기에 포트폴리오 주소 입력])
-[![Blog](https://img.shields.io/badge/Blog-E24E1E?style=flat-square&logo=tistory&logoColor=white&labelColor=1e3a8a)]([여기에 블로그 주소 입력])
+## 🔗 Contact
+
 [![Email](https://img.shields.io/badge/Contact-1d4ed8?style=flat-square&logo=gmail&logoColor=white&labelColor=1e3a8a)](mailto:shjw5392@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=Neafrun&color=1d4ed8&style=flat-square&label=Views&labelColor=1e3a8a)
 
@@ -25,45 +20,45 @@
 ## 🛠️ Tech Stack
 
 ### Frontend
-<div>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white">
-</div>
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white" alt="Styled-Components">
+</p>
 
 ### Design Tools
-<div>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white">
-  <img src="https://img.shields.io/badge/Clip%20Studio-222222?style=flat-square&logo=clipstudiopaint&logoColor=white">
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white">
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" alt="Photoshop">
+  <img src="https://img.shields.io/badge/Clip%20Studio-222222?style=flat-square&logo=clipstudiopaint&logoColor=white" alt="Clip Studio">
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" alt="Illustrator">
+</p>
 
 ### Tools & IDE
-<div>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white">
-  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-</div>
+<p>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</p>
 
 ### Communication
-<div>
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white">
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white">
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" alt="Slack">
+</p>
 
 ---
 
 ## 📚 Currently Learning
 
-<div>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white">
-</div>
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+</p>
 
 ---
 
@@ -120,6 +115,6 @@
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0x0a1628,0x1e3a8a,0x1d4ed8&height=150&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0x0a1628,0x1e3a8a,0x1d4ed8&height=150&section=footer" alt="Footer">
 
 </div>
