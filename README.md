@@ -109,11 +109,6 @@
 
 ---
 
-## 💡 협업 및 소통
-
-함께 흥미로운 사용자 경험을 만들어갈 **열린 마음의 동료**를 찾고 있습니다.
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0x7DD3FC,0x38BDF8,0x0EA5E9&height=150&section=footer" alt="Footer">
 
