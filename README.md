@@ -6,7 +6,7 @@
 
 ## ✨ 감각적인 디자인으로 마음을 사로잡는 프론트엔드 개발자 Neafrun입니다.
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=%ED%94%BC%EB%9D%BC+%EC%BD%94%EB%93%9C&size=13&letterSpacing=%EC%A0%95%EC%83%81&pause=1000&color=0EA5E9&width=435&lines=%EC%A7%81%EA%B4%80%EC%A0%81%EC%9D%B8+%ED%9D%90%EB%A6%84+%EC%86%8D%EC%97%90+%EA%B0%90%EC%84%B1%EC%A0%81%EC%9D%B8+%EC%88%9C%EA%B0%84%EC%9D%84+%EC%8B%AC%EC%96%B4%EC%A3%BC%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9D%84+%EC%A7%80%ED%96%A5%ED%95%A9%EB%8B%88%EB%8B%A4" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=%ED%94%BC%EB%9D%BC+%EC%BD%94%EB%93%9C&size=14&letterSpacing=%EC%A0%95%EC%83%81&pause=1000&color=0EA5E9&width=435&lines=%EC%A7%81%EA%B4%80%EC%A0%81%EC%9D%B8+%ED%9D%90%EB%A6%84+%EC%86%8D%EC%97%90+%EA%B0%90%EC%84%B1%EC%A0%81%EC%9D%B8+%EC%88%9C%EA%B0%84%EC%9D%84+%EC%8B%AC%EC%96%B4%EC%A3%BC%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9D%84+%EC%A7%80%ED%96%A5%ED%95%A9%EB%8B%88%EB%8B%A4" alt="Typing SVG" /></a>
 
 ---
 
@@ -40,4 +40,82 @@
 
 ### 커뮤니케이션 (Communication)
 <p>
-    <img src="https://img
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">
+</p>
+
+---
+
+## 📚 학습 중 (Currently Learning)
+
+<p>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+</p>
+
+---
+
+## 📌 주요 프로젝트 (Pinned Projects)
+
+<table align="center">
+<tr>
+<td align="center">
+
+[![TypeScript Project](https://github-readme-stats.vercel.app/api/pin/?username=Neafrun&repo=TypeScript-Project&theme=slate&hide_border=true&bg_color=0x7DD3FC&title_color=0EA5E9&icon_color=38BDF8&text_color=000000)](https://github.com/Neafrun/TypeScript-Project)
+
+</td>
+<td align="center">
+
+[![BenefitMap](https://github-readme-stats.vercel.app/api/pin/?username=BenefitMap&repo=BenefitMap&theme=slate&hide_border=true&bg_color=0x7DD3FC&title_color=0EA5E9&icon_color=38BDF8&text_color=000000)](https://github.com/BenefitMap/BenefitMap)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+[![EmoJournal](https://github-readme-stats.vercel.app/api/pin/?username=DongjuLee0528&repo=EmoJournal&theme=slate&hide_border=true&bg_color=0x7DD3FC&title_color=0EA5E9&icon_color=38BDF8&text_color=000000)](https://github.com/DongjuLee0528/EmoJournal)
+
+</td>
+<td align="center">
+
+[![Recipick](https://github-readme-stats.vercel.app/api/pin/?username=Neafrun&repo=Recipick&theme=slate&hide_border=true&bg_color=0x7DD3FC&title_color=0EA5E9&icon_color=38BDF8&text_color=000000)](https://github.com/Neafrun/Recipick)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔗 연락처 (Contact)
+
+<p align="center">
+[![Email](https://img.shields.io/badge/Email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=38BDF8)](mailto:shjw5392@gmail.com)
+</p>
+
+<p align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=Neafrun&color=0EA5E9&style=for-the-badge&label=Views&labelColor=38BDF8)
+</p>
+
+---
+
+## 📊 깃허브 통계 (GitHub Stats)
+
+![Neafrun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neafrun&show_icons=true&theme=slate&hide_border=true&bg_color=0x7DD3FC&title_color=0EA5E9&icon_color=38BDF8&text_color=000000)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neafrun&layout=compact&theme=slate&hide_border=true&bg_color=0x7DD3FC&title_color=0EA5E9&text_color=000000)
+
+---
+
+## 📈 활동 기록 및 저장소 (Activity & Repositories)
+
+### 활동 그래프 (Activity Graph)
+![Neafrun's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Neafrun&theme=react-dark&hide_border=true&bg_color=0a1628&color=60a5fa&line=1d4ed8&point=3b82f6)
+
+### 인기 저장소 (Top Repos)
+<img src="https://github-readme-stats.vercel.app/api?username=Neafrun&show_icons=true&theme=slate&hide_border=true&include_all_commits=true&bg_color=0x7DD3FC&title_color=0EA5E9&icon_color=38BDF8&text_color=000000&rank_icon=github" alt="Neafrun's Top Repos">
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0x7DD3FC,0x38BDF8,0x0EA5E9&height=150&section=footer" alt="Footer">
+
+</div>
