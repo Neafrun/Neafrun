@@ -6,16 +6,12 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0x0a1628,0x1e3a8a,0x1d4ed8&height=250&section=header&text=Frontend%20Developer&fontSize=40&fontColor=e2e8f0&animation=fadeIn)
 
-<div style="position: absolute; top: 10px; right: 20px; font-size: 12px;">
-  
-[![Email](https://img.shields.io/badge/Contact-1d4ed8?style=flat-square&logo=gmail&logoColor=white&labelColor=1e3a8a)](mailto:shjw5392@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Neafrun&color=1d4ed8&style=flat-square&label=Views&labelColor=1e3a8a)
-
-</div>
-
 </div>
 
 ### 사용자 중심의 웹 경험을 만들어갑니다
+
+[![Email](https://img.shields.io/badge/Contact-1d4ed8?style=flat-square&logo=gmail&logoColor=white&labelColor=1e3a8a)](mailto:shjw5392@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Neafrun&color=1d4ed8&style=flat-square&label=Views&labelColor=1e3a8a)
 
 ---
 
@@ -25,15 +21,9 @@
 
 ---
 
-## ☀️ Today's Weather
+## ☀️ Today's Weather in Korea
 
-<div>
-  <img src="https://img.shields.io/badge/☀️%20Sunny-FFD700?style=for-the-badge&labelColor=1e3a8a" alt="Sunny">
-  <img src="https://img.shields.io/badge/🌧️%20Rainy-4682B4?style=for-the-badge&labelColor=1e3a8a" alt="Rainy">
-  <img src="https://img.shields.io/badge/❄️%20Snowy-B0E0E6?style=for-the-badge&labelColor=1e3a8a" alt="Snowy">
-</div>
-
-*Click to set today's coding weather!*
+![Seoul Weather](https://wttr.in/Seoul.png?0&theme=dark)
 
 ## 🛠️ Tech Stack
 
@@ -108,12 +98,6 @@
 </td>
 </tr>
 </table>
-
----
-
-## 🎵 Now Playing
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31bdpbivd3c6i7z5q7exkjyygkaq&cover_image=true&theme=novatorem&show_offline=false&background_color=0f172a&interchange=false&bar_color=0ea5e9&bar_color_cover=false)](https://open.spotify.com/track/3qT0tPmFWOep8xGjBF5nDR)
 
 ---
 
