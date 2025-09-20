@@ -99,7 +99,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neafrun&layout=compact&theme=slate&hide_border=true&bg_color=0x7DD3FC&title_color=0EA5E9&text_color=000000)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neafrun&theme=dark&hide_border=true&background=0x7DD3FC&stroke=0EA5E9&ring=38BDF8&fire=0EA5E9&currStreakLabel=000000&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=000000)
 
 ---
 
