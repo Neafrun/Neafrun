@@ -2,7 +2,7 @@
 
 # 안녕하세요! 이지훈 입니다 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDE0FE&color=A2D2FF&color=8AB8F8&color=74A6F7&height=200&section=header&text=Frontend%20Developer%20%26%20Designer&fontSize=35&fontColor=000000&animation=fadeIn&y=45" alt="프론트엔드 개발자 & 디자이너 헤더">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDE0FE&color=A2D2FF&color=8AB8F8&color=74A6F7&height=200&section=header&text=Frontend%20Developer&fontSize=35&fontColor=000000&animation=fadeIn" alt="프론트엔드 개발자 헤더">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=%ED%94%BC%EB%9D%BC+%EC%BD%94%EB%93%9C&size=18&pause=1000&color=2C2C2C&center=true&vCenter=true&width=500&lines=사용자+경험(UX)을+디자인하는+개발자;직관적이고+아름다운+웹을+만듭니다." alt="자기소개 타이핑 SVG">
 
