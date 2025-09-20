@@ -2,11 +2,11 @@
 
 # 안녕하세요! Neafrun입니다 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0x0a1628,0x1e3a8a,0x1d4ed8&height=250&section=header&text=Frontend%20Developer&fontSize=40&fontColor=e2e8f0&animation=fadeIn" alt="Frontend Developer Header">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0x0a1628,0x1e3a8a,0x1d4ed8&height=250&section=header&text=Frontend%20Developer&fontSize=40&fontColor=e2e8f0&animation=fadeIn" alt="Frontend Developer Header">
 
 ## ✨ 감각적인 디자인으로 마음을 사로잡는 프론트엔드 개발자 Neafrun입니다.
 
-##### 직관적인 흐름 속에 감성적인 순간을 심어주는 개발을 지향합니다.
+### 직관적인 흐름 속에 감성적인 순간을 심어주는 개발을 지향합니다.
 
 ---
 
@@ -109,7 +109,12 @@
 
 ---
 
+## 🤝 Let's Connect!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0x0a1628,0x1e3a8a,0x1d4ed8&height=150&section=footer" alt="Footer">
+열린 자세로 새로운 도전을 환영합니다. 함께 흥미로운 사용자 경험을 만들어갈 기회를 기대합니다!
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0x0a1628,0x1e3a8a,0x1d4ed8&height=150&section=footer" alt="Footer">
 
 </div>
