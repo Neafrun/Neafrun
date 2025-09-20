@@ -68,4 +68,75 @@
         <p>
           <img src="https://img.shields.io/badge/UI/UX%20Design-FF6B6B?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Design">
           <img src="https://img.shields.io/badge/Frontend%20Performance-4ECDC4?style=for-the-badge&logo=lighthouse&logoColor=white" alt="Performance">
-          <img src="
+          <img src="https://img.shields.io/badge/Responsive%20Design-45B7D1?style=for-the-badge&logo=css3&logoColor=white" alt="Responsive">
+          <img src="https://img.shields.io/badge/Web%20Accessibility-96CEB4?style=for-the-badge&logo=w3c&logoColor=white" alt="Accessibility">
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📌 주요 프로젝트 (Featured Projects)
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+[![TypeScript Project](https://github-readme-stats.vercel.app/api/pin/?username=Neafrun&repo=TypeScript-Project&theme=buefy&hide_border=true&bg_color=F7FAFC&title_color=74A6F7&icon_color=A2D2FF&text_color=333333&border_radius=10)](https://github.com/Neafrun/TypeScript-Project)
+
+</td>
+<td align="center" width="50%">
+
+[![BenefitMap](https://github-readme-stats.vercel.app/api/pin/?username=BenefitMap&repo=BenefitMap&theme=buefy&hide_border=true&bg_color=F7FAFC&title_color=74A6F7&icon_color=A2D2FF&text_color=333333&border_radius=10)](https://github.com/BenefitMap/BenefitMap)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+[![EmoJournal](https://github-readme-stats.vercel.app/api/pin/?username=DongjuLee0528&repo=EmoJournal&theme=buefy&hide_border=true&bg_color=F7FAFC&title_color=74A6F7&icon_color=A2D2FF&text_color=333333&border_radius=10)](https://github.com/DongjuLee0528/EmoJournal)
+
+</td>
+<td align="center" width="50%">
+
+[![Recipick](https://github-readme-stats.vercel.app/api/pin/?username=Neafrun&repo=Recipick&theme=buefy&hide_border=true&bg_color=F7FAFC&title_color=74A6F7&icon_color=A2D2FF&text_color=333333&border_radius=10)](https://github.com/Neafrun/Recipick)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 깃허브 통계 (GitHub Stats)
+
+<div align="center">
+
+![Neafrun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neafrun&show_icons=true&theme=buefy&hide_border=true&bg_color=F7FAFC&title_color=74A6F7&icon_color=A2D2FF&text_color=333333&border_radius=10)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neafrun&layout=compact&theme=buefy&hide_border=true&bg_color=F7FAFC&title_color=74A6F7&text_color=333333&border_radius=10)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neafrun&theme=buefy&hide_border=true&background=F7FAFC&stroke=74A6F7&ring=A2D2FF&fire=BDE0FE&currStreakLabel=333333&sideLabels=74A6F7&currStreakNum=A2D2FF&sideNums=A2D2FF&dates=333333&border_radius=10)
+
+</div>
+
+---
+
+## 📈 활동 그래프 (GitHub Activity)
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Neafrun&theme=react&hide_border=true&bg_color=F7FAFC&color=333333&line=74A6F7&point=A2D2FF" alt="GitHub Activity Graph">
+
+---
+
+## 🏆 성취 (Achievements)
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Neafrun&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDE0FE&color=A2D2FF&color=8AB8F8&color=74A6F7&height=150&section=footer&animation=twinkling" alt="Footer">
+
+</div>
