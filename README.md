@@ -2,7 +2,7 @@
 
 # 안녕하세요! Neafrun입니다 👋
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0x0a1628,0x1e3a8a,0x1d4ed8&height=250&section=header&text=Frontend%20Developer&fontSize=40&fontColor=e2e8f0&animation=fadeIn" alt="Frontend Developer Header">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0x7DD3FC,0x38BDF8,0x0EA5E9&height=250&section=header&text=Frontend%20Developer&fontSize=40&fontColor=000000&animation=fadeIn" alt="Frontend Developer Header">
 
 ## ✨ 감각적인 디자인으로 마음을 사로잡는 프론트엔드 개발자 Neafrun입니다.
 
@@ -12,8 +12,8 @@
 
 ## 🔗 Contact
 
-[![Email](https://img.shields.io/badge/Contact-1d4ed8?style=flat-square&logo=gmail&logoColor=white&labelColor=1e3a8a)](mailto:shjw5392@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Neafrun&color=1d4ed8&style=flat-square&label=Views&labelColor=1e3a8a)
+[![Email](https://img.shields.io/badge/Contact-0EA5E9?style=flat-square&logo=gmail&logoColor=white&labelColor=38BDF8)](mailto:shjw5392@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Neafrun&color=0EA5E9&style=flat-square&label=Views&labelColor=38BDF8)
 
 ---
 
@@ -95,11 +95,11 @@
 
 ## 📊 GitHub Stats
 
-![Neafrun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neafrun&show_icons=true&theme=slate&hide_border=true&bg_color=0a1628&title_color=60a5fa&icon_color=1d4ed8&text_color=e2e8f0)
+![Neafrun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neafrun&show_icons=true&theme=slate&hide_border=true&bg_color=0x7DD3FC&title_color=0EA5E9&icon_color=38BDF8&text_color=000000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neafrun&layout=compact&theme=slate&hide_border=true&bg_color=0a1628&title_color=60a5fa&text_color=e2e8f0)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neafrun&layout=compact&theme=slate&hide_border=true&bg_color=0x7DD3FC&title_color=0EA5E9&text_color=000000)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neafrun&theme=dark&hide_border=true&background=0a1628&stroke=60a5fa&ring=1d4ed8&fire=3b82f6&currStreakLabel=e2e8f0&sideLabels=60a5fa&currStreakNum=1d4ed8&sideNums=1d4ed8&dates=e2e8f0)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neafrun&theme=dark&hide_border=true&background=0x7DD3FC&stroke=0EA5E9&ring=38BDF8&fire=0EA5E9&currStreakLabel=000000&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=000000)
 
 ---
 
@@ -109,12 +109,12 @@
 
 ---
 
-## 🤝 Let's Connect!
+## 💡 협업 및 소통
 
-열린 자세로 새로운 도전을 환영합니다. 함께 흥미로운 사용자 경험을 만들어갈 기회를 기대합니다!
+함께 흥미로운 사용자 경험을 만들어갈 **열린 마음의 동료**를 찾고 있습니다.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0x0a1628,0x1e3a8a,0x1d4ed8&height=150&section=footer" alt="Footer">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0x7DD3FC,0x38BDF8,0x0EA5E9&height=150&section=footer" alt="Footer">
 
 </div>
