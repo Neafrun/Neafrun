@@ -10,20 +10,8 @@
 
 ### 사용자 중심의 웹 경험을 만들어갑니다
 
-[![Email](https://img.shields.io/badge/Contact-1d4ed8?style=flat-square&logo=gmail&logoColor=white&labelColor=1e3a8a)](mailto:shjw5392@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Neafrun&color=1d4ed8&style=flat-square&label=Views&labelColor=1e3a8a)
 
 ---
-
-## 🎵 Now Playing
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31bdpbivd3c6i7z5q7exkjyygkaq&cover_image=true&theme=novatorem&show_offline=false&background_color=0f172a&interchange=false&bar_color=0ea5e9&bar_color_cover=false)](https://open.spotify.com/track/3qT0tPmFWOep8xGjBF5nDR)
-
----
-
-## ☀️ Today's Weather in Korea
-
-![Seoul Weather](https://wttr.in/Seoul.png?0&theme=dark)
 
 ## 🛠️ Tech Stack
 
@@ -69,6 +57,9 @@
 </div>
 
 ---
+
+[![Email](https://img.shields.io/badge/Contact-1d4ed8?style=flat-square&logo=gmail&logoColor=white&labelColor=1e3a8a)](mailto:shjw5392@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Neafrun&color=1d4ed8&style=flat-square&label=Views&labelColor=1e3a8a)
 
 ## 📌 Pinned Projects
 
