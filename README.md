@@ -1,20 +1,23 @@
+<div align="center">
+
 # 안녕하세요! Neafrun입니다 👋
 
-<div align="center">
+<div style="position: relative;">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0x0f172a,0x1e293b,0x334155&height=200&section=header&text=Frontend%20Developer&fontSize=40&fontColor=e2e8f0&animation=fadeIn)
 
+<div style="position: absolute; top: 10px; right: 20px; font-size: 12px;">
+  
+[![Email](https://img.shields.io/badge/Contact-0ea5e9?style=flat-square&logo=gmail&logoColor=white&labelColor=334155)](mailto:shjw5392@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Neafrun&color=0ea5e9&style=flat-square&label=Views&labelColor=334155)
+
 </div>
 
-<div align="center">
+</div>
 
 ### 사용자 중심의 웹 경험을 만들어갑니다
 
-</div>
-
 ---
-
-<div align="center">
 
 ## 🛠️ Tech Stack
 
@@ -50,11 +53,7 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white">
 </div>
 
-</div>
-
 ---
-
-<div align="center">
 
 ## 📚 Currently Learning
 
@@ -63,25 +62,29 @@
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white">
 </div>
 
+---
+
+## 📌 Pinned Projects
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+[![TypeScript Project](https://github-readme-stats.vercel.app/api/pin/?username=Neafrun&repo=TypeScript-Project&theme=slate&hide_border=true&bg_color=0f172a&title_color=64748b&icon_color=0ea5e9&text_color=e2e8f0)](https://github.com/Neafrun/TypeScript-Project)
+
+[![BenefitMap](https://github-readme-stats.vercel.app/api/pin/?username=BenefitMap&repo=BenefitMap&theme=slate&hide_border=true&bg_color=0f172a&title_color=64748b&icon_color=0ea5e9&text_color=e2e8f0)](https://github.com/BenefitMap/BenefitMap)
+
+[![EmoJournal](https://github-readme-stats.vercel.app/api/pin/?username=DongjuLee0528&repo=EmoJournal&theme=slate&hide_border=true&bg_color=0f172a&title_color=64748b&icon_color=0ea5e9&text_color=e2e8f0)](https://github.com/DongjuLee0528/EmoJournal)
+
+[![Recipick](https://github-readme-stats.vercel.app/api/pin/?username=Neafrun&repo=Recipick&theme=slate&hide_border=true&bg_color=0f172a&title_color=64748b&icon_color=0ea5e9&text_color=e2e8f0)](https://github.com/Neafrun/Recipick)
+
 </div>
 
 ---
 
-<div align="center">
+## 🎵 Now Playing
 
-## 🚀 Current Projects
-
-### EmoJournal
-감정 기록 및 분석 웹 애플리케이션
-
-### BenefitMap  
-혜택 정보 제공 서비스
-
-</div>
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31bdpbivd3c6i7z5q7exkjyygkaq&cover_image=true&theme=novatorem&show_offline=false&background_color=0f172a&interchange=false&bar_color=0ea5e9&bar_color_cover=false)](https://open.spotify.com/track/3qT0tPmFWOep8xGjBF5nDR)
 
 ---
-
-<div align="center">
 
 ## 📊 GitHub Stats
 
@@ -91,33 +94,13 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neafrun&theme=dark&hide_border=true&background=0f172a&stroke=64748b&ring=0ea5e9&fire=06b6d4&currStreakLabel=e2e8f0&sideLabels=64748b&currStreakNum=0ea5e9&sideNums=0ea5e9&dates=e2e8f0)
 
-</div>
-
 ---
-
-<div align="center">
 
 ## 📈 Activity Graph
 
 ![Neafrun's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Neafrun&theme=react-dark&hide_border=true&bg_color=0f172a&color=64748b&line=0ea5e9&point=06b6d4)
 
-</div>
-
 ---
-
-<div align="center">
-
-## 📧 Contact
-
-[![Email](https://img.shields.io/badge/shjw5392@gmail.com-0ea5e9?style=flat-square&logo=gmail&logoColor=white)](mailto:shjw5392@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Neafrun&color=0ea5e9&style=flat-square&label=Profile+Views)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0x0f172a,0x1e293b,0x334155&height=100&section=footer)
 
