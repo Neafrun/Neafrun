@@ -6,22 +6,8 @@
 
 ## ✨ 감각적인 디자인으로 마음을 사로잡는 프론트엔드 개발자 Neafrun입니다.
 
-### 깔끔하고 보기좋은 코드를 선호하며, 사용자 중심의 직관적인 웹 경험을 만듭니다
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=%ED%94%BC%EB%9D%BC+%EC%BD%94%EB%93%9C&size=18&letterSpacing=%EC%A0%95%EC%83%81&pause=1000&color=0EA5E9&width=435&lines=%EC%A7%81%EA%B4%80%EC%A0%81%EC%9D%B8+%ED%9D%90%EB%A6%84+%EC%86%8D%EC%97%90+%EA%B0%90%EC%84%B1%EC%A0%81%EC%9D%B8+%EC%88%9C%EA%B0%84%EC%9D%84+%EC%8B%AC%EC%96%B4%EC%A3%BC%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9D%84+%EC%A7%80%ED%96%A5%ED%95%A9%EB%8B%88%EB%8B%A4" alt="Typing SVG" /></a>
-
-## 🌙 테마 모드 (Theme Mode)
-
-<div align="center">
-  
-**🌞 라이트 모드** | **🌙 다크 모드**
-:---: | :---:
-청량한 바다색 테마 | 깊은 밤하늘 테마
-밝고 시원한 느낌 | 차분하고 세련된 느낌
-
-*GitHub 설정의 테마에 따라 자동으로 변경됩니다*
-
-</div>
 
 ## 📞 연락처 (Contact)
 
@@ -137,12 +123,7 @@
 
 ---
 
-## 🏆 성취 (Achievements)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Neafrun&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0x00CED1,0x20B2AA,0x48CAE4,0x90E0EF&height=150&section=footer&animation=twinkling" alt="Footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0x00BFFF,0x1E90FF,0x00CED1,0x48CAE4&height=150&section=footer&fontColor=000000&animation=twinkling" alt="Footer">
 
 </div>
