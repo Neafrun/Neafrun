@@ -4,12 +4,12 @@
 
 <div style="position: relative;">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=0x0f172a,0x1e293b,0x334155&height=200&section=header&text=Frontend%20Developer&fontSize=40&fontColor=e2e8f0&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0x0a1628,0x1e3a8a,0x1d4ed8&height=250&section=header&text=Frontend%20Developer&fontSize=40&fontColor=e2e8f0&animation=fadeIn)
 
 <div style="position: absolute; top: 10px; right: 20px; font-size: 12px;">
   
-[![Email](https://img.shields.io/badge/Contact-0ea5e9?style=flat-square&logo=gmail&logoColor=white&labelColor=334155)](mailto:shjw5392@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Neafrun&color=0ea5e9&style=flat-square&label=Views&labelColor=334155)
+[![Email](https://img.shields.io/badge/Contact-1d4ed8?style=flat-square&logo=gmail&logoColor=white&labelColor=1e3a8a)](mailto:shjw5392@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Neafrun&color=1d4ed8&style=flat-square&label=Views&labelColor=1e3a8a)
 
 </div>
 
@@ -18,6 +18,22 @@
 ### 사용자 중심의 웹 경험을 만들어갑니다
 
 ---
+
+## 🎵 Now Playing
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31bdpbivd3c6i7z5q7exkjyygkaq&cover_image=true&theme=novatorem&show_offline=false&background_color=0f172a&interchange=false&bar_color=0ea5e9&bar_color_cover=false)](https://open.spotify.com/track/3qT0tPmFWOep8xGjBF5nDR)
+
+---
+
+## ☀️ Today's Weather
+
+<div>
+  <img src="https://img.shields.io/badge/☀️%20Sunny-FFD700?style=for-the-badge&labelColor=1e3a8a" alt="Sunny">
+  <img src="https://img.shields.io/badge/🌧️%20Rainy-4682B4?style=for-the-badge&labelColor=1e3a8a" alt="Rainy">
+  <img src="https://img.shields.io/badge/❄️%20Snowy-B0E0E6?style=for-the-badge&labelColor=1e3a8a" alt="Snowy">
+</div>
+
+*Click to set today's coding weather!*
 
 ## 🛠️ Tech Stack
 
@@ -66,17 +82,32 @@
 
 ## 📌 Pinned Projects
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<table align="center">
+<tr>
+<td align="center">
 
-[![TypeScript Project](https://github-readme-stats.vercel.app/api/pin/?username=Neafrun&repo=TypeScript-Project&theme=slate&hide_border=true&bg_color=0f172a&title_color=64748b&icon_color=0ea5e9&text_color=e2e8f0)](https://github.com/Neafrun/TypeScript-Project)
+[![TypeScript Project](https://github-readme-stats.vercel.app/api/pin/?username=Neafrun&repo=TypeScript-Project&theme=slate&hide_border=true&bg_color=0a1628&title_color=60a5fa&icon_color=1d4ed8&text_color=e2e8f0)](https://github.com/Neafrun/TypeScript-Project)
 
-[![BenefitMap](https://github-readme-stats.vercel.app/api/pin/?username=BenefitMap&repo=BenefitMap&theme=slate&hide_border=true&bg_color=0f172a&title_color=64748b&icon_color=0ea5e9&text_color=e2e8f0)](https://github.com/BenefitMap/BenefitMap)
+</td>
+<td align="center">
 
-[![EmoJournal](https://github-readme-stats.vercel.app/api/pin/?username=DongjuLee0528&repo=EmoJournal&theme=slate&hide_border=true&bg_color=0f172a&title_color=64748b&icon_color=0ea5e9&text_color=e2e8f0)](https://github.com/DongjuLee0528/EmoJournal)
+[![BenefitMap](https://github-readme-stats.vercel.app/api/pin/?username=BenefitMap&repo=BenefitMap&theme=slate&hide_border=true&bg_color=0a1628&title_color=60a5fa&icon_color=1d4ed8&text_color=e2e8f0)](https://github.com/BenefitMap/BenefitMap)
 
-[![Recipick](https://github-readme-stats.vercel.app/api/pin/?username=Neafrun&repo=Recipick&theme=slate&hide_border=true&bg_color=0f172a&title_color=64748b&icon_color=0ea5e9&text_color=e2e8f0)](https://github.com/Neafrun/Recipick)
+</td>
+</tr>
+<tr>
+<td align="center">
 
-</div>
+[![EmoJournal](https://github-readme-stats.vercel.app/api/pin/?username=DongjuLee0528&repo=EmoJournal&theme=slate&hide_border=true&bg_color=0a1628&title_color=60a5fa&icon_color=1d4ed8&text_color=e2e8f0)](https://github.com/DongjuLee0528/EmoJournal)
+
+</td>
+<td align="center">
+
+[![Recipick](https://github-readme-stats.vercel.app/api/pin/?username=Neafrun&repo=Recipick&theme=slate&hide_border=true&bg_color=0a1628&title_color=60a5fa&icon_color=1d4ed8&text_color=e2e8f0)](https://github.com/Neafrun/Recipick)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -88,20 +119,20 @@
 
 ## 📊 GitHub Stats
 
-![Neafrun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neafrun&show_icons=true&theme=slate&hide_border=true&bg_color=0f172a&title_color=64748b&icon_color=0ea5e9&text_color=e2e8f0)
+![Neafrun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neafrun&show_icons=true&theme=slate&hide_border=true&bg_color=0a1628&title_color=60a5fa&icon_color=1d4ed8&text_color=e2e8f0)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neafrun&layout=compact&theme=slate&hide_border=true&bg_color=0f172a&title_color=64748b&text_color=e2e8f0)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neafrun&layout=compact&theme=slate&hide_border=true&bg_color=0a1628&title_color=60a5fa&text_color=e2e8f0)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neafrun&theme=dark&hide_border=true&background=0f172a&stroke=64748b&ring=0ea5e9&fire=06b6d4&currStreakLabel=e2e8f0&sideLabels=64748b&currStreakNum=0ea5e9&sideNums=0ea5e9&dates=e2e8f0)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neafrun&theme=dark&hide_border=true&background=0a1628&stroke=60a5fa&ring=1d4ed8&fire=3b82f6&currStreakLabel=e2e8f0&sideLabels=60a5fa&currStreakNum=1d4ed8&sideNums=1d4ed8&dates=e2e8f0)
 
 ---
 
 ## 📈 Activity Graph
 
-![Neafrun's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Neafrun&theme=react-dark&hide_border=true&bg_color=0f172a&color=64748b&line=0ea5e9&point=06b6d4)
+![Neafrun's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Neafrun&theme=react-dark&hide_border=true&bg_color=0a1628&color=60a5fa&line=1d4ed8&point=3b82f6)
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0x0f172a,0x1e293b,0x334155&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0x0a1628,0x1e3a8a,0x1d4ed8&height=150&section=footer)
 
 </div>
