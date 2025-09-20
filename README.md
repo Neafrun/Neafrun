@@ -6,17 +6,13 @@
 
 ## 사용자 중심의 직관적인 웹 경험을 만드는 개발자입니다
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=0ea5e9&center=true&vCenter=true&width=500&lines=Clean+Code+%7C+Beautiful+UI;React+%7C+TypeScript+%7C+JavaScript;Always+Learning+New+Tech" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=0ea5e9&center=true&vCenter=true&width=600&lines=직관적인+흐름+속에+감성적인+순간을+심어주는+개발을+지향합니다" alt="Typing SVG" /></a>
 
 ---
 
 ## 📞 연락처 (Contact)
 
 [![Email](https://img.shields.io/badge/shjw5392@gmail.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=334155)](mailto:shjw5392@gmail.com)
-
-## 👀 방문자 수 (Profile Views)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Neafrun&color=0ea5e9&style=for-the-badge&label=Profile+Views&labelColor=334155)
 
 ---
 
@@ -124,7 +120,7 @@
 
 ## 📈 활동 그래프 (GitHub Activity)
 
-![Neafrun's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Neafrun&theme=react-dark&hide_border=true&bg_color=0f172a&color=0ea5e9&line=38bdf8&point=06b6d4)
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Neafrun&theme=react-dark&hide_border=true&bg_color=0f172a&color=0ea5e9&line=38bdf8&point=06b6d4" alt="GitHub Activity Graph">
 
 ---
 
