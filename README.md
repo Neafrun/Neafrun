@@ -1,8 +1,8 @@
 <div align="center">
 
-# 안녕하세요! Neafrun입니다 👋
+# 안녕하세요! 이지훈 입니다 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0x00CED1,0x20B2AA,0x48CAE4,0x90E0EF&height=200&section=header&text=Frontend%20Developer&fontSize=35&fontColor=000000&animation=fadeIn" alt="프론트엔드 개발자 헤더">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#ADD8E6,0x20B2AA,0x48CAE4,0x90E0EF&height=200&section=header&text=Frontend%20Developer&fontSize=35&fontColor=000000&animation=fadeIn" alt="프론트엔드 개발자 헤더">
 
 ## ✨ 감각적인 디자인으로 마음을 사로잡는 프론트엔드 개발자 Neafrun입니다.
 
