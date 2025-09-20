@@ -2,17 +2,13 @@
 
 # 안녕하세요! Neafrun입니다 👋
 
-<!-- Light Mode Header -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0x1e293b,0x334155,0x475569&height=200&section=header&text=Frontend%20Developer&fontSize=35&fontColor=e2e8f0&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0x00CED1,0x20B2AA,0x48CAE4,0x90E0EF&height=200&section=header&text=Frontend%20Developer&fontSize=35&fontColor=000000&animation=fadeIn" alt="프론트엔드 개발자 헤더">
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0x00CED1,0x20B2AA,0x48CAE4,0x90E0EF&height=200&section=header&text=Frontend%20Developer&fontSize=35&fontColor=000000&animation=fadeIn" alt="프론트엔드 개발자 헤더">
 
 ## ✨ 감각적인 디자인으로 마음을 사로잡는 프론트엔드 개발자 Neafrun입니다.
 
 ### 깔끔하고 보기좋은 코드를 선호하며, 사용자 중심의 직관적인 웹 경험을 만듭니다
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=0ea5e9&center=true&vCenter=true&width=600&lines=직관적인+흐름+속에+감성적인+순간을+심어주는+개발을+지향합니다" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=%ED%94%BC%EB%9D%BC+%EC%BD%94%EB%93%9C&size=18&letterSpacing=%EC%A0%95%EC%83%81&pause=1000&color=0EA5E9&width=435&lines=%EC%A7%81%EA%B4%80%EC%A0%81%EC%9D%B8+%ED%9D%90%EB%A6%84+%EC%86%8D%EC%97%90+%EA%B0%90%EC%84%B1%EC%A0%81%EC%9D%B8+%EC%88%9C%EA%B0%84%EC%9D%84+%EC%8B%AC%EC%96%B4%EC%A3%BC%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9D%84+%EC%A7%80%ED%96%A5%ED%95%A9%EB%8B%88%EB%8B%A4" alt="Typing SVG" /></a>
 
 ## 🌙 테마 모드 (Theme Mode)
 
@@ -125,21 +121,11 @@
 
 <div align="center">
 
-<!-- Light/Dark Mode GitHub Stats -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Neafrun&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a202c&title_color=63b3ed&icon_color=90cdf4&text_color=e2e8f0&border_radius=10">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neafrun&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0ea5e9&icon_color=38bdf8&text_color=1a202c&border_radius=10" alt="Neafrun's GitHub stats">
-</picture>
+![Neafrun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neafrun&show_icons=true&theme=slate&hide_border=true&bg_color=0f172a&title_color=0ea5e9&icon_color=38bdf8&text_color=e2e8f0&border_radius=10)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Neafrun&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a202c&title_color=63b3ed&text_color=e2e8f0&border_radius=10">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neafrun&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0ea5e9&text_color=1a202c&border_radius=10" alt="Top Languages">
-</picture>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neafrun&layout=compact&theme=slate&hide_border=true&bg_color=0f172a&title_color=0ea5e9&text_color=e2e8f0&border_radius=10)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Neafrun&theme=tokyonight&hide_border=true&background=1a202c&stroke=63b3ed&ring=90cdf4&fire=f56565&currStreakLabel=e2e8f0&sideLabels=63b3ed&currStreakNum=90cdf4&sideNums=90cdf4&dates=e2e8f0&border_radius=10">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neafrun&theme=default&hide_border=true&background=ffffff&stroke=0ea5e9&ring=38bdf8&fire=f56565&currStreakLabel=1a202c&sideLabels=0ea5e9&currStreakNum=38bdf8&sideNums=38bdf8&dates=1a202c&border_radius=10" alt="GitHub Streak">
-</picture>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neafrun&theme=dark&hide_border=true&background=0f172a&stroke=0ea5e9&ring=38bdf8&fire=06b6d4&currStreakLabel=e2e8f0&sideLabels=0ea5e9&currStreakNum=38bdf8&sideNums=38bdf8&dates=e2e8f0&border_radius=10)
 
 </div>
 
@@ -147,11 +133,7 @@
 
 ## 📈 활동 그래프 (GitHub Activity)
 
-<!-- Light/Dark Mode Activity Graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Neafrun&theme=tokyo-night&hide_border=true&bg_color=1a202c&color=63b3ed&line=90cdf4&point=f56565">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Neafrun&theme=minimal&hide_border=true&bg_color=ffffff&color=0ea5e9&line=38bdf8&point=f56565" alt="GitHub Activity Graph">
-</picture>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Neafrun&theme=react-dark&hide_border=true&bg_color=0f172a&color=0ea5e9&line=38bdf8&point=06b6d4" alt="GitHub Activity Graph">
 
 ---
 
@@ -161,10 +143,6 @@
 
 ---
 
-<!-- Light/Dark Mode Footer -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0x1e293b,0x334155,0x475569&height=150&section=footer&animation=twinkling">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0x00CED1,0x20B2AA,0x48CAE4,0x90E0EF&height=150&section=footer&animation=twinkling" alt="Footer">
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0x00CED1,0x20B2AA,0x48CAE4,0x90E0EF&height=150&section=footer&animation=twinkling" alt="Footer">
 
 </div>
