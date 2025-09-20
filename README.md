@@ -2,7 +2,7 @@
 
 # 안녕하세요! Neafrun입니다 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0x1e293b,0x334155,0x475569&height=200&section=header&text=Frontend%20Developer&fontSize=35&fontColor=e2e8f0" alt="프론트엔드 개발자 헤더">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0x00CED1,0x20B2AA,0x48CAE4,0x90E0EF&height=200&section=header&text=Frontend%20Developer&fontSize=35&fontColor=000000&animation=fadeIn" alt="프론트엔드 개발자 헤더">
 
 ## 사용자 중심의 직관적인 웹 경험을 만드는 개발자입니다
 
@@ -130,6 +130,6 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0x1e293b,0x334155,0x475569&height=150&section=footer" alt="Footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0x00CED1,0x20B2AA,0x48CAE4,0x90E0EF&height=150&section=footer&animation=twinkling" alt="Footer">
 
 </div>
