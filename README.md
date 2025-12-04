@@ -1,13 +1,17 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BDE0FE&color=A2D2FF&color=8AB8F8&color=74A6F7&height=150&section=header&text=안녕하세요!%20이지훈%20입니다%20👋&fontSize=35&fontAlignY=30" alt="Header">
+</p>
 
-# 안녕하세요! 이지훈 입니다 👋
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&size=12&letterSpacing=%EC%A0%95%EC%83%81&duration=3500&pause=1000&color=318BF7&background=0FACFF00&center=true&multiline=true&width=435&lines=%EA%B0%90%EA%B0%81%EC%A0%81%EC%9D%B8+%EB%94%94%EC%9E%90%EC%9D%B8%EC%9C%BC%EB%A1%9C+%EB%A7%88%EC%9D%8C%EC%9D%84+%EC%82%AC%EB%A1%9C%EC%9E%A1%EB%8A%94+%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EC%9D%B4%EC%A7%80%ED%9B%88+%EC%9E%85%EB%8B%88%EB%8B%A4.;%EC%A7%81%EA%B4%80%EC%A0%81%EC%9D%B8+%ED%9D%90%EB%A6%84+%EC%86%8D%EC%97%90+%EA%B0%90%EC%84%B1%EC%A0%81%EC%9D%B8+%EC%88%9C%EA%B0%84%EC%9D%84+%EC%8B%AC%EC%96%B4%EC%A3%BC%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9D%84+%EC%A7%80%ED%96%A5%ED%95%A9%EB%8B%88%EB%8B%A4." alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Anton&size=16&letterSpacing=정상&duration=3500&pause=1000&color=318BF7&background=0FACFF00&center=true&multiline=true&width=550&lines=감각적인+디자인으로+마음을+사로잡는+프론트엔드+개발자+이지훈+입니다.;직관적인+흐름+속에+감성적인+순간을+심어주는+개발을+지향합니다." alt="Typing SVG" />
+  </a>
+</p>
 
 ### 📞 Contact & Links
-<p>
-<a href="mailto:shjw5392@gmail.com"><img src="https://img.shields.io/badge/Gmail-BDE0FE?style=for-the-badge&logo=gmail&logoColor=black&labelColor=A2D2FF"></a>
-<a href="mailto:shjw5392@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white&labelColor=2DB400"></a>
+<p align="center">
+  <a href="mailto:shjw5392@gmail.com"><img src="https://img.shields.io/badge/Gmail-BDE0FE?style=for-the-badge&logo=gmail&logoColor=black&labelColor=A2D2FF"></a>
+  <a href="mailto:shjw5392@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white&labelColor=2DB400"></a>
 </p>
 
 ---
@@ -72,29 +76,21 @@
 
 ## 📌 주요 프로젝트 (Featured Projects)
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
 <td align="center" width="50%">
-
-[![TypeScript Project](https://github-readme-stats.vercel.app/api/pin/?username=Neafrun&repo=TypeScript-Project&theme=buefy&hide_border=true&bg_color=F7FAFC&title_color=74A6F7&icon_color=A2D2FF&text_color=333333&border_radius=10)](https://github.com/Neafrun/TypeScript-Project)
-
+  [![TypeScript Project](https://github-readme-stats.vercel.app/api/pin/?username=Neafrun&repo=TypeScript-Project&theme=buefy&hide_border=true&bg_color=F7FAFC&title_color=74A6F7&icon_color=A2D2FF&text_color=333333&border_radius=10)](https://github.com/Neafrun/TypeScript-Project)
 </td>
 <td align="center" width="50%">
-
-[![BenefitMap](https://github-readme-stats.vercel.app/api/pin/?username=BenefitMap&repo=BenefitMap&theme=buefy&hide_border=true&bg_color=F7FAFC&title_color=74A6F7&icon_color=A2D2FF&text_color=333333&border_radius=10)](https://github.com/BenefitMap/BenefitMap)
-
+  [![BenefitMap](https://github-readme-stats.vercel.app/api/pin/?username=BenefitMap&repo=BenefitMap&theme=buefy&hide_border=true&bg_color=F7FAFC&title_color=74A6F7&icon_color=A2D2FF&text_color=333333&border_radius=10)](https://github.com/BenefitMap/BenefitMap)
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
-
-[![EmoJournal](https://github-readme-stats.vercel.app/api/pin/?username=DongjuLee0528&repo=EmoJournal&theme=buefy&hide_border=true&bg_color=F7FAFC&title_color=74A6F7&icon_color=A2D2FF&text_color=333333&border_radius=10)](https://github.com/DongjuLee0528/EmoJournal)
-
+  [![EmoJournal](https://github-readme-stats.vercel.app/api/pin/?username=DongjuLee0528&repo=EmoJournal&theme=buefy&hide_border=true&bg_color=F7FAFC&title_color=74A6F7&icon_color=A2D2FF&text_color=333333&border_radius=10)](https://github.com/DongjuLee0528/EmoJournal)
 </td>
 <td align="center" width="50%">
-
-[![Recipick](https://github-readme-stats.vercel.app/api/pin/?username=Neafrun&repo=Recipick&theme=buefy&hide_border=true&bg_color=F7FAFC&title_color=74A6F7&icon_color=A2D2FF&text_color=333333&border_radius=10)](https://github.com/Neafrun/Recipick)
-
+  [![Recipick](https://github-readme-stats.vercel.app/api/pin/?username=Neafrun&repo=Recipick&theme=buefy&hide_border=true&bg_color=F7FAFC&title_color=74A6F7&icon_color=A2D2FF&text_color=333333&border_radius=10)](https://github.com/Neafrun/Recipick)
 </td>
 </tr>
 </table>
@@ -103,32 +99,34 @@
 
 ## 📊 깃허브 통계 (GitHub Stats)
 
-<div align="center">
+<p align="center">
+  ![Neafrun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neafrun&show_icons=true&theme=buefy&hide_border=true&bg_color=F7FAFC&title_color=74A6F7&icon_color=A2D2FF&text_color=333333&border_radius=10)
+</p>
 
-![Neafrun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neafrun&show_icons=true&theme=buefy&hide_border=true&bg_color=F7FAFC&title_color=74A6F7&icon_color=A2D2FF&text_color=333333&border_radius=10)
+<p align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neafrun&layout=compact&theme=buefy&hide_border=true&bg_color=F7FAFC&title_color=74A6F7&text_color=333333&border_radius=10)
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neafrun&layout=compact&theme=buefy&hide_border=true&bg_color=F7FAFC&title_color=74A6F7&text_color=333333&border_radius=10)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Neafrun&theme=buefy&hide_border=true&background=F7FAFC&stroke=74A6F7&ring=A2D2FF&fire=BDE0FE&currStreakLabel=333333&sideLabels=74A6F7&currStreakNum=A2D2FF&sideNums=A2D2FF&dates=333333&border_radius=10)
-
-</div>
+<p align="center">
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=Neafrun&theme=buefy&hide_border=true&background=F7FAFC&stroke=74A6F7&ring=A2D2FF&fire=BDE0FE&currStreakLabel=333333&sideLabels=74A6F7&currStreakNum=A2D2FF&sideNums=A2D2FF&dates=333333&border_radius=10)
+</p>
 
 ---
 
 ## 📈 활동 그래프 (GitHub Activity)
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Neafrun&theme=react&hide_border=true&bg_color=F7FAFC&color=333333&line=74A6F7&point=A2D2FF" alt="GitHub Activity Graph">
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Neafrun&theme=react&hide_border=true&bg_color=F7FAFC&color=333333&line=74A6F7&point=A2D2FF" alt="GitHub Activity Graph">
+</p>
 
 ---
 
 ## 🏆 성취 (Achievements)
 
-<div align="center">
+<p align="center">
+  ![trophy](https://github-profile-trophy.vercel.app/?username=Neafrun&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
+</p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Neafrun&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDE0FE&color=A2D2FF&color=8AB8F8&color=74A6F7&height=150&section=footer&animation=twinkling" alt="Footer">
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BDE0FE&color=A2D2FF&color=8AB8F8&color=74A6F7&height=150&section=footer&animation=twinkling" alt="Footer">
+</p>
