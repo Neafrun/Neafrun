@@ -1,10 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=BDE0FE&color=A2D2FF&color=8AB8F8&color=74A6F7&height=150&section=header&text=안녕하세요!%20이지훈%20입니다%20👋&fontSize=35&fontAlignY=30" alt="Header">
-</p>
+# 안녕하세요! 이지훈 입니다 👋
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Anton&size=16&letterSpacing=정상&duration=3500&pause=1000&color=318BF7&background=0FACFF00&center=true&multiline=true&width=550&lines=감각적인+디자인으로+마음을+사로잡는+프론트엔드+개발자+이지훈+입니다.;직관적인+흐름+속에+감성적인+순간을+심어주는+개발을+지향합니다." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Anton&size=14&letterSpacing=정상&duration=3500&pause=1000&color=318BF7&background=0FACFF00&center=true&multiline=true&width=550&lines=감각적인+디자인으로+마음을+사로잡는+프론트엔드+개발자+이지훈+입니다.;직관적인+흐름+속에+감성적인+순간을+심어주는+개발을+지향합니다." alt="Typing SVG" />
   </a>
 </p>
 
@@ -127,6 +125,4 @@
   ![trophy](https://github-profile-trophy.vercel.app/?username=Neafrun&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=BDE0FE&color=A2D2FF&color=8AB8F8&color=74A6F7&height=150&section=footer&animation=twinkling" alt="Footer">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDE0FE&color=A2D2FF&color=8AB8F8&color=74A6F7&height=150&section=footer&animation=twinkling" alt="Footer">
