@@ -125,4 +125,8 @@
   ![trophy](https://github-profile-trophy.vercel.app/?username=Neafrun&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDE0FE&color=A2D2FF&color=8AB8F8&color=74A6F7&height=150&section=footer&animation=twinkling" alt="Footer">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BDE0FE&color=A2D2FF&color=8AB8F8&color=74A6F7&height=150&section=footer&animation=twinkling" alt="Footer">
+</p>
+
+---
