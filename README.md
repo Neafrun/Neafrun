@@ -1,9 +1,5 @@
 <h1 align="center">안녕하세요! 이지훈 입니다👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Anton&size=14&letterSpacing=정상&duration=3500&pause=1000&color=318BF7&background=0FACFF00&center=true&multiline=true&width=550&lines=감각적인+디자인으로+마음을+사로잡는+프론트엔드+개발자+이지훈+입니다.;직관적인+흐름+속에+감성적인+순간을+심어주는+개발을+지향합니다." alt="Typing SVG" />
-</p>
-
 <h3 align="center">📞 Contact & Links</h3>
 <p align="center">
   <a href="mailto:shjw5392@gmail.com"><img src="https://img.shields.io/badge/Gmail-BDE0FE?style=for-the-badge&logo=gmail&logoColor=black&labelColor=A2D2FF" alt="Gmail" /></a>
@@ -11,7 +7,6 @@
 </p>
 
 ---
-
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
