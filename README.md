@@ -118,16 +118,5 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Neafrun&theme=react&hide_border=true&bg_color=F7FAFC&color=333333&line=74A6F7&point=A2D2FF" alt="GitHub Activity Graph" />
 </p>
 
----
-
-<h2 align="center">🏆 성취 (Achievements)</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Neafrun&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="trophy" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=BDE0FE&color=A2D2FF&color=8AB8F8&color=74A6F7&height=150&section=footer&animation=twinkling" alt="Footer" />
-</p>
 
 ---
