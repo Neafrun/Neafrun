@@ -57,14 +57,22 @@ TypeScript 학습과 실습을 바탕으로 구성한 프론트엔드 프로젝�
 
 ---
 
-## GitHub Activity
+## GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Neafrun&show_icons=true&theme=transparent&hide_border=true&title_color=24292F&icon_color=0969DA&text_color=24292F&bg_color=00000000" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neafrun&layout=compact&theme=transparent&hide_border=true&title_color=24292F&text_color=24292F&bg_color=00000000" alt="Top languages" height="165" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Neafrun&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Neafrun&layout=compact&theme=default&hide_border=true" alt="Top languages" height="165" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Neafrun&theme=github&hide_border=true&bg_color=ffffff&color=24292F&line=0969DA&point=0969DA" alt="GitHub activity graph" width="100%" />
+<p>
+  <img src="https://streak-stats.demolab.com/?user=Neafrun&theme=default&hide_border=true" alt="GitHub streak" />
+</p>
+
+### Contribution Graph
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/Neafrun" alt="Neafrun contribution chart" width="100%" />
+</p>
 
 ---
 
